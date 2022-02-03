@@ -280,6 +280,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 223)
+  jekyll-include-cache
   webrick
 
 BUNDLED WITH
