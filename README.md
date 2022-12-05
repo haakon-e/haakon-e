@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I'm a PhD student at Caltech specializing in climate dynamics. You can read more about my projects on my [research site](https://hlle.no).
+
+
+![Haakon Ludvig's GitHub stats](https://github-readme-stats.vercel.app/api?username=haakon-e&count_private=true&show_icons=true&theme=transparent)
+
 <!--
 **haakon-e/haakon-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
