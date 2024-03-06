@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Info for co-authored commits:
+`Co-authored-by: Haakon Ludvig Langeland Ervik <45243236+haakon-e@users.noreply.github.com>`
