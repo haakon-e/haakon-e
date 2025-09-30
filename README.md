@@ -2,6 +2,7 @@
 
 - 🔭 I'm a PhD student at Caltech specializing in climate dynamics. You can read more about my projects on my [research site](https://hlle.no).
 
+[![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@haakon-e)](https://joss.theoj.org/papers/reviewed_by/@haakon-e)
 
 ![Haakon Ludvig's GitHub stats](https://github-readme-stats.vercel.app/api?username=haakon-e&count_private=true&show_icons=true&theme=transparent)
 
